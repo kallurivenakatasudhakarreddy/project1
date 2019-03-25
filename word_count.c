@@ -2,6 +2,7 @@
 #include<stdio.h>
 int main()
 {
+    printf("hello\n");
     do{
     int ch,x=1,word_count=1,line_count=1,character_count=0;
     char choice,lc;
